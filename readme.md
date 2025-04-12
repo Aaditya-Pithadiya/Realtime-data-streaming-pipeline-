@@ -1,7 +1,3 @@
-Certainly! Here's a comprehensive and user-friendly `README.md` file for your project, **RealtimeStreamingEngineering**. This README provides a clear overview and step-by-step setup instructions to help users understand and deploy your real-time data engineering pipeline.
-
----
-
 # RealtimeStreamingEngineering
 
 An end-to-end real-time data engineering pipeline that streams Yelp review data via TCP/IP sockets, processes it using Apache Spark, performs real-time sentiment analysis with OpenAI's ChatGPT, and routes the enriched data through Kafka to Elasticsearch for indexing and querying.
@@ -22,8 +18,6 @@ An end-to-end real-time data engineering pipeline that streams Yelp review data 
 This project demonstrates the integration of various technologies to create a robust real-time data processing pipeline. It covers each stage from data acquisition, processing, sentiment analysis with ChatGPT, production to Kafka topic, and connection to Elasticsearch.
 
 ## System Architecture
-
-![System Architecture](assets/System_architecture.png)
 
 The architecture consists of the following components:
 
