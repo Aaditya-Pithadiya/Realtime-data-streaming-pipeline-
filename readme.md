@@ -120,14 +120,3 @@ Once all components are running:
 - Kafka Connect transfers the data to Elasticsearch.
 - You can query Elasticsearch to analyze the sentiment-enriched data.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README further to suit your project's specific needs. Let me know if you need assistance with any other aspect of your project! 
